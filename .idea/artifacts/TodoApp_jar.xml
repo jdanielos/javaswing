@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TodoApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TodoApp_jar</output-path>
+    <root id="archive" name="TodoApp.jar">
+      <element id="module-output" name="TodoApp" />
+    </root>
+  </artifact>
+</component>
